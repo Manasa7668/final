@@ -1,2 +1,2 @@
-from package.modele1 import add
-from package.module2 import sub
+from package.modu1 import add
+from package.modu2 import sub
